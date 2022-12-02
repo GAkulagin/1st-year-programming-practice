@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\учеба\Программирование\Учебная практика\Task_5\bin\Debug\Task_5.exe.config
+C:\Users\User\Desktop\учеба\Программирование\Учебная практика\Task_5\bin\Debug\Task_5.exe
+C:\Users\User\Desktop\учеба\Программирование\Учебная практика\Task_5\bin\Debug\Task_5.pdb
+C:\Users\User\Desktop\учеба\Программирование\Учебная практика\Task_5\obj\Debug\Task_5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Программирование\Учебная практика\Task_5\obj\Debug\Task_5.exe
+C:\Users\User\Desktop\учеба\Программирование\Учебная практика\Task_5\obj\Debug\Task_5.pdb
+C:\Users\User\Desktop\учеба\Программирование\Учебная практика\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
